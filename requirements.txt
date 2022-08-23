@@ -1,4 +1,4 @@
-﻿absl-py==1.2.0
+absl-py==1.2.0
 altair==4.2.0
 astunparse==1.6.3
 attrs==22.1.0
@@ -76,6 +76,7 @@ Pympler==1.0.1
 pyparsing==3.0.9
 pyrsistent==0.18.1
 python-dateutil==2.8.2
+pywin==340
 pytz==2022.2.1
 pytz-deprecation-shim==0.1.0.post0
 PyYAML==6.0
